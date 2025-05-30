@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 💫 About Me :<br><br>🔭 I’m currently working on building modern, responsive web apps using React and Tailwind CSS.  <br>🤝 I’m looking to collaborate on frontend projects, UI/UX design improvements, and open-source contributions.  <br>🧠 I’m looking for help with scalable frontend architecture and integrating backend services efficiently.  <br>🌱 I’m currently learning advanced React patterns, state management (like Redux or Zustand), and exploring full-stack development.  <br>💬 Ask me about React, Tailwind CSS, clean component design, or frontend project structure.  <br>⚡ Fun fact: I love crafting intuitive user interfaces that not only work well, but feel great to use.<br>
 
 <img align ="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2c1N2VzYzVnbXMwaDhuODhuczEyMmtrbGt2NjVtNWNjNGw1NGJ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
